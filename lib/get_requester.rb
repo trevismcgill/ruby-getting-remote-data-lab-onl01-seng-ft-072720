@@ -1,9 +1,9 @@
 # Write your code here
 class GetRequester
 
-def initialize(url)
+def initialize(url_address)
 
-URL = url
+Url = url_address
 end
 
 def get_response_body
