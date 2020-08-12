@@ -3,7 +3,7 @@ class GetRequester
 
 def initialize(url_address)
 
-Url = url_address
+url = url_address
 end
 
 def get_response_body
